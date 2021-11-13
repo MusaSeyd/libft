@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/checkmini"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"libft.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
